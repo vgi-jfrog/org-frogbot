@@ -1,11 +1,11 @@
 - params:
     git:
-      repoName: frogbot
+      repoName: org-frogbot
       branches:
         - dev
     scan:
       emailReceivers:
-        - eco-system@jfrog.com
+        - vijaygi@jfrog.com
       projects:
         - workingDirs:
             - action
